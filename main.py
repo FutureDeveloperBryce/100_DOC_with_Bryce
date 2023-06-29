@@ -5,12 +5,6 @@ the (total_bill). My gut tells me that the (photo_request) doesn't need to live 
 if statement... But I'm struggling. So without giving me the answer, how can I think about
 this differently? """
 
-# I wonder what happens when I do something
-# I will figure out how this works
-# When i type here it auto-updates on github desktop... i think
-# so i think the process is, commit, then push. Let's try from PyCharm, now.
-# So if I was tre, I could type here and Bryce would see the response in PyCharm, once i commit then push
-
 #Code below:
 
 # check height - need 120cm or more
