@@ -5,6 +5,8 @@ the (total_bill). My gut tells me that the (photo_request) doesn't need to live 
 if statement... But I'm struggling. So without giving me the answer, how can I think about
 this differently? """
 
+# I wonder what happens when I do something
+
 #Code below:
 
 # check height - need 120cm or more
