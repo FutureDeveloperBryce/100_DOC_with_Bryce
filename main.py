@@ -6,6 +6,8 @@ if statement... But I'm struggling. So without giving me the answer, how can I t
 this differently? """
 
 # I wonder what happens when I do something
+# I will figure out how this works
+# When i type here it auto-updates on github desktop... i think
 
 #Code below:
 
